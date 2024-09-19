@@ -12,6 +12,7 @@ function Type() {
           "Chatbot Developer",
           "AI Research enthusiast",
           "Open Source Contributor",
+          "Gamer",
         ],
         autoStart: true,
         loop: true,
